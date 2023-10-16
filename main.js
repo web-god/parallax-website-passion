@@ -1,4 +1,3 @@
-//Doshi Naman
 (function ($) {
   "use strict";
 
